@@ -1,0 +1,6 @@
+{
+  "name": "AGIJ FERT - Consultoria Agrícola",
+  "description": "Site institucional da AGIJ FERT, consultoria agrícola em Sorriso - MT especializada em desafios do solo e produtividade na lavoura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

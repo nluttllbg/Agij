@@ -1,0 +1,21 @@
+PASTA DE IMAGENS — AGIJ FERT
+============================
+
+Coloque aqui as fotos da empresa. O site detecta os arquivos
+automaticamente e substitui os espaços reservados (sem editar código).
+
+Nomes base esperados (a extensão pode ser .jpg, .jpeg, .png ou .webp):
+
+  1. mudas-solo        → seção principal (foto de destaque)     — 4:3 paisagem
+  2. regar-da-muda     → seção "Sobre a AGIJ FERT"              — 4:3 paisagem
+  3. planta-de-soja    → seção "Como ajudamos" (foto lateral)   — 3:4 retrato
+  4. colheita-aerea    → seção "produzindo abaixo do esperado"  — 16:9 paisagem
+
+Exemplos válidos: mudas-solo.jpg, mudas-solo.png, colheita-aerea.webp ...
+
+Dicas:
+- Prefira fotos com 2000 a 3000 px de largura (JPG já funciona bem).
+- Se quiser usar outro nome, edite o atributo "data-file" no index.html
+  (busque por "data-slot-image" — são 4 ocorrências).
+
+Veja o README.md na raiz do projeto para o passo a passo completo.
